@@ -1,7 +1,7 @@
 {
   "name": "gjconnect",
   "displayName": "gj :: connect",
-  "description": "Launch gj products from InterSystems Server Manager",
+  "description": "Demonstrator of InterSystems Server Manager Extensibility",
   "version": "1.0.0",
   "publisher": "georgejames",
   "homepage": "https://github.com/george-james-software/gjConnect/README.md",
