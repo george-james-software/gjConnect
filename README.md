@@ -15,7 +15,7 @@ It also demonstrates how to create a new top level folder in your workspace corr
 * Demonstrates how to launch a url in an external browser
 * Demonstrates how to add a top level folder to the workspace (if not already present)
 
-
+![Screenshot](https://raw.githubusercontent.com/george-james-software/gjConnect/master/images/screenshot.png)
 
 ## Requirements
 
